@@ -1,0 +1,51 @@
+C:\Users\Tomas\Desktop\Asteroides\Asteroides\bin\Debug\net6.0-windows\Asteroides.exe
+C:\Users\Tomas\Desktop\Asteroides\Asteroides\bin\Debug\net6.0-windows\Asteroides.deps.json
+C:\Users\Tomas\Desktop\Asteroides\Asteroides\bin\Debug\net6.0-windows\Asteroides.runtimeconfig.json
+C:\Users\Tomas\Desktop\Asteroides\Asteroides\bin\Debug\net6.0-windows\Asteroides.dll
+C:\Users\Tomas\Desktop\Asteroides\Asteroides\bin\Debug\net6.0-windows\Asteroides.pdb
+C:\Users\Tomas\Desktop\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.csproj.AssemblyReference.cache
+C:\Users\Tomas\Desktop\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.csproj.GenerateResource.cache
+C:\Users\Tomas\Desktop\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Tomas\Desktop\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.AssemblyInfoInputs.cache
+C:\Users\Tomas\Desktop\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.AssemblyInfo.cs
+C:\Users\Tomas\Desktop\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.csproj.CoreCompileInputs.cache
+C:\Users\Tomas\Desktop\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.dll
+C:\Users\Tomas\Desktop\Asteroides\Asteroides\obj\Debug\net6.0-windows\refint\Asteroides.dll
+C:\Users\Tomas\Desktop\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.pdb
+C:\Users\Tomas\Desktop\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.genruntimeconfig.cache
+C:\Users\Tomas\Desktop\Asteroides\Asteroides\obj\Debug\net6.0-windows\ref\Asteroides.dll
+C:\Users\Tomas\Desktop\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.Game.resources
+C:\Users\afons\OneDrive\Ambiente de Trabalho\Asteroides\Asteroides\bin\Debug\net6.0-windows\Asteroides.exe
+C:\Users\afons\OneDrive\Ambiente de Trabalho\Asteroides\Asteroides\bin\Debug\net6.0-windows\Asteroides.deps.json
+C:\Users\afons\OneDrive\Ambiente de Trabalho\Asteroides\Asteroides\bin\Debug\net6.0-windows\Asteroides.runtimeconfig.json
+C:\Users\afons\OneDrive\Ambiente de Trabalho\Asteroides\Asteroides\bin\Debug\net6.0-windows\Asteroides.dll
+C:\Users\afons\OneDrive\Ambiente de Trabalho\Asteroides\Asteroides\bin\Debug\net6.0-windows\Asteroides.pdb
+C:\Users\afons\OneDrive\Ambiente de Trabalho\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.csproj.AssemblyReference.cache
+C:\Users\afons\OneDrive\Ambiente de Trabalho\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.Game.resources
+C:\Users\afons\OneDrive\Ambiente de Trabalho\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.csproj.GenerateResource.cache
+C:\Users\afons\OneDrive\Ambiente de Trabalho\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afons\OneDrive\Ambiente de Trabalho\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.AssemblyInfoInputs.cache
+C:\Users\afons\OneDrive\Ambiente de Trabalho\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.AssemblyInfo.cs
+C:\Users\afons\OneDrive\Ambiente de Trabalho\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Ambiente de Trabalho\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.dll
+C:\Users\afons\OneDrive\Ambiente de Trabalho\Asteroides\Asteroides\obj\Debug\net6.0-windows\refint\Asteroides.dll
+C:\Users\afons\OneDrive\Ambiente de Trabalho\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.pdb
+C:\Users\afons\OneDrive\Ambiente de Trabalho\Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.genruntimeconfig.cache
+C:\Users\afons\OneDrive\Ambiente de Trabalho\Asteroides\Asteroides\obj\Debug\net6.0-windows\ref\Asteroides.dll
+C:\Users\afons\OneDrive\Ambiente de Trabalho\trabalho programacao - Asteroides\Asteroides\bin\Debug\net6.0-windows\Asteroides.exe
+C:\Users\afons\OneDrive\Ambiente de Trabalho\trabalho programacao - Asteroides\Asteroides\bin\Debug\net6.0-windows\Asteroides.deps.json
+C:\Users\afons\OneDrive\Ambiente de Trabalho\trabalho programacao - Asteroides\Asteroides\bin\Debug\net6.0-windows\Asteroides.runtimeconfig.json
+C:\Users\afons\OneDrive\Ambiente de Trabalho\trabalho programacao - Asteroides\Asteroides\bin\Debug\net6.0-windows\Asteroides.dll
+C:\Users\afons\OneDrive\Ambiente de Trabalho\trabalho programacao - Asteroides\Asteroides\bin\Debug\net6.0-windows\Asteroides.pdb
+C:\Users\afons\OneDrive\Ambiente de Trabalho\trabalho programacao - Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.csproj.AssemblyReference.cache
+C:\Users\afons\OneDrive\Ambiente de Trabalho\trabalho programacao - Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.Game.resources
+C:\Users\afons\OneDrive\Ambiente de Trabalho\trabalho programacao - Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.csproj.GenerateResource.cache
+C:\Users\afons\OneDrive\Ambiente de Trabalho\trabalho programacao - Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\afons\OneDrive\Ambiente de Trabalho\trabalho programacao - Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.AssemblyInfoInputs.cache
+C:\Users\afons\OneDrive\Ambiente de Trabalho\trabalho programacao - Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.AssemblyInfo.cs
+C:\Users\afons\OneDrive\Ambiente de Trabalho\trabalho programacao - Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.csproj.CoreCompileInputs.cache
+C:\Users\afons\OneDrive\Ambiente de Trabalho\trabalho programacao - Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.dll
+C:\Users\afons\OneDrive\Ambiente de Trabalho\trabalho programacao - Asteroides\Asteroides\obj\Debug\net6.0-windows\refint\Asteroides.dll
+C:\Users\afons\OneDrive\Ambiente de Trabalho\trabalho programacao - Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.pdb
+C:\Users\afons\OneDrive\Ambiente de Trabalho\trabalho programacao - Asteroides\Asteroides\obj\Debug\net6.0-windows\Asteroides.genruntimeconfig.cache
+C:\Users\afons\OneDrive\Ambiente de Trabalho\trabalho programacao - Asteroides\Asteroides\obj\Debug\net6.0-windows\ref\Asteroides.dll
